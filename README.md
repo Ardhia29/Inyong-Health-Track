@@ -5,26 +5,26 @@ INYONG HEALTHY TRACK adalah aplikasi berbasis R Shiny yang dikembangkan untuk me
 # Fitur Utama 
 Aplikasi ini dirancang dengan berbasis R Shiny dan menyediakan fitur-fitur berikut:
 
-🔎 Analisis Tekanan Darah: Deteksi klasifikasi tekanan darah berdasarkan input pengguna.
-🔍 Analisis Gula Darah: Menilai status gula darah dan risiko diabetes.
-👨‍👩‍👧‍👦 Analisis Riwayat Keluarga: Mengukur risiko keturunan untuk hipertensi dan diabetes.
-📊 Visualisasi Interaktif: Grafik risiko untuk mempermudah pemahaman hasil.
-🧘 Rekomendasi Gaya Hidup: Saran olahraga, tidur, dan kebiasaan sehat.
-🥗 Rekomendasi Nutrisi: Estimasi kebutuhan karbohidrat, protein, lemak, dan air.
-📚 Edukasi Kesehatan: Video YouTube dan artikel kesehatan terpercaya.
-❓ FAQ Medis: Jawaban atas pertanyaan umum mengenai hipertensi dan diabetes.
-🏥 Konsultasi Medis & Lokasi RS: Direktori dokter spesialis dan rumah sakit lengkap dengan jadwal dan lokasi.
-⚙️ Pengaturan Tampilan & Akun: Kustomisasi preferensi pengguna.
+- 🔎 Analisis Tekanan Darah: Deteksi klasifikasi tekanan darah berdasarkan input pengguna.
+- 🔍 Analisis Gula Darah: Menilai status gula darah dan risiko diabetes.
+- 👨‍👩‍👧‍👦 Analisis Riwayat Keluarga: Mengukur risiko keturunan untuk hipertensi dan diabetes.
+- 📊 Visualisasi Interaktif: Grafik risiko untuk mempermudah pemahaman hasil.
+- 🧘 Rekomendasi Gaya Hidup: Saran olahraga, tidur, dan kebiasaan sehat.
+- 🥗 Rekomendasi Nutrisi: Estimasi kebutuhan karbohidrat, protein, lemak, dan air.
+- 📚 Edukasi Kesehatan: Video YouTube dan artikel kesehatan terpercaya.
+- ❓ FAQ Medis: Jawaban atas pertanyaan umum mengenai hipertensi dan diabetes.
+- 🏥 Konsultasi Medis & Lokasi RS: Direktori dokter spesialis dan rumah sakit lengkap dengan jadwal dan lokasi.
+- ⚙️ Pengaturan Tampilan & Akun: Kustomisasi preferensi pengguna.
 
 # Cara Penggunaan Aplikasi
 1. Buka aplikasi melalui browser (R Shiny App).
 2. Isi data pribadi dan kesehatan di tab "Input Data".
 3. Klik tombol "Analisis Sekarang".
 4. Lihat hasil analisis di tab "📊 Hasil Analisis", berupa:
-- Kategori tekanan darah dan risiko (NORMAL, PRA-HIPERTENSI, HIPERTENSI)
-- Status gula darah (NORMAL, PRA-DIABETES, DIABETES)
-- Rekomendasi gaya hidup dan gizi
-- Grafik faktor risiko interaktif (bar dan pie chart)
+    - Kategori tekanan darah dan risiko (NORMAL, PRA-HIPERTENSI, HIPERTENSI)
+    - Status gula darah (NORMAL, PRA-DIABETES, DIABETES)
+    - Rekomendasi gaya hidup dan gizi
+    - Grafik faktor risiko interaktif (bar dan pie chart)
 5. Masuk ke tab "Riwayat Keluarga" untuk menilai risiko genetik berdasarkan data keluarga (ayah, ibu, saudara).
 6. Akses "Edukasi Kesehatan" untuk menonton video atau membaca artikel/ebook tentang hipertensi dan diabetes.
 7. Kunjungi tab "FAQ Medis" jika ingin melihat pertanyaan umum atau konsultasi dengan dokter berdasarkan kota dan rumah sakit.
