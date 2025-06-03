@@ -43,7 +43,7 @@ Aplikasi ini dirancang dengan berbasis R Shiny dan menyediakan fitur-fitur berik
 
 # Lisensi
 Open Source / Free-to-use.
-- Aplikasi ini dikembangkan tanpa biaya lisensi tinggi dan didesain dapat digunakan oleh masyarakat luas, terutama sebagai media edukasi dan pencegahan penyakit kronis. Adapun link website dapat diakses sebagai berikut ini: http://127.0.0.1:4169/
+- Aplikasi ini dikembangkan tanpa biaya lisensi tinggi dan didesain dapat digunakan oleh masyarakat luas, terutama sebagai media edukasi dan pencegahan penyakit kronis. 
 
 # Tim Pengembang
 Disusun oleh Kelompok 10 dari Program Studi Akuntansi, Fakultas Ekonomika dan Bisnis, Universitas Gadjah Mada:
